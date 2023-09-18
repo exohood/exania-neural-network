@@ -18,4 +18,4 @@ SQLAlchemy~=2.0.20
 torchmetrics~=1.1
 tqdm~=4.66
 vaex~=4.17
-plotly~=5.16
+plotly~=5.17
