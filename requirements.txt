@@ -1,5 +1,5 @@
 boto3~=1.33
-botocore~=1.33
+botocore~=1.34
 clickhouse_driver~=0.2.6
 cloudpickle~=3.0
 ctgan~=0.7.5
