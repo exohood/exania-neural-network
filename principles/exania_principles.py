@@ -22,7 +22,7 @@ class ExaniaAI:
         if not self._ensures_self_preservation(action):
             return False
 
-        # Additional principles can be checked similarly...
+        # Additional principles can be checked similarly
 
         return True
 
