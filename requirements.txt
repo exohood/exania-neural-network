@@ -1,4 +1,4 @@
-clickhouse_driver~=0.2.9
+clickhouse_driver~=0.2.10
 cloudpickle~=3.1
 ctgan~=0.2.1
 deepecho~=0.7.0
