@@ -1,6 +1,6 @@
 clickhouse_driver~=0.2.10
 cloudpickle~=3.1
-ctgan~=0.2.1
+ctgan~=0.12.1
 deepecho~=0.8.0
 matplotlib~=3.10
 numpy~=2.4
